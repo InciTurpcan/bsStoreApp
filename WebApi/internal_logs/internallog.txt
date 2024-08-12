@@ -1,0 +1,110 @@
+2024-05-06 17:44:49.4426 Info Message Template Auto Format enabled
+2024-05-06 17:44:49.6831 Info Adding target FileTarget(Name=logfile)
+2024-05-06 17:44:49.7067 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\İNCİ TURPCAN\Desktop\Asp .Net Core Web Api\Application\bsStoreApp\WebApi\nLog.config
+2024-05-16 17:32:03.7321 Info Message Template Auto Format enabled
+2024-05-16 17:32:03.9781 Info Adding target FileTarget(Name=logfile)
+2024-05-16 17:32:03.9982 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\İNCİ TURPCAN\Desktop\Asp .Net Core Web Api\Application\bsStoreApp\WebApi\nLog.config
+2024-05-29 01:34:54.5474 Info Message Template Auto Format enabled
+2024-05-29 01:34:54.8769 Info Adding target FileTarget(Name=logfile)
+2024-05-29 01:34:54.9094 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\İNCİ TURPCAN\Desktop\Asp .Net Core Web Api\Application\bsStoreApp\WebApi\nLog.config
+2024-05-29 01:35:33.2311 Info Message Template Auto Format enabled
+2024-05-29 01:35:33.2792 Info Adding target FileTarget(Name=logfile)
+2024-05-29 01:35:33.3000 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\İNCİ TURPCAN\Desktop\Asp .Net Core Web Api\Application\bsStoreApp\WebApi\nLog.config
+2024-05-29 01:35:34.9843 Info Message Template Auto Format enabled
+2024-05-29 01:35:35.0905 Info Adding target FileTarget(Name=logfile)
+2024-05-29 01:35:35.1279 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\İNCİ TURPCAN\Desktop\Asp .Net Core Web Api\Application\bsStoreApp\WebApi\nLog.config
+2024-05-29 01:36:09.7288 Info Message Template Auto Format enabled
+2024-05-29 01:36:09.8295 Info Adding target FileTarget(Name=logfile)
+2024-05-29 01:36:09.8657 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\İNCİ TURPCAN\Desktop\Asp .Net Core Web Api\Application\bsStoreApp\WebApi\nLog.config
+2024-07-06 00:26:55.0324 Info Message Template Auto Format enabled
+2024-07-06 00:26:55.3062 Info Adding target FileTarget(Name=logfile)
+2024-07-06 00:26:55.3347 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\İNCİ TURPCAN\Desktop\Asp .Net Core Web Api\Application\bsStoreApp\WebApi\nLog.config
+2024-07-06 00:29:06.3581 Info Message Template Auto Format enabled
+2024-07-06 00:29:06.4608 Info Adding target FileTarget(Name=logfile)
+2024-07-06 00:29:06.5141 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\İNCİ TURPCAN\Desktop\Asp .Net Core Web Api\Application\bsStoreApp\WebApi\nLog.config
+2024-07-06 00:40:37.5596 Info Message Template Auto Format enabled
+2024-07-06 00:40:37.8898 Info Adding target FileTarget(Name=logfile)
+2024-07-06 00:40:37.9170 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\İNCİ TURPCAN\Desktop\Asp .Net Core Web Api\Application\bsStoreApp\WebApi\nLog.config
+2024-07-06 00:41:58.2891 Info Message Template Auto Format enabled
+2024-07-06 00:41:58.3998 Info Adding target FileTarget(Name=logfile)
+2024-07-06 00:41:58.4404 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\İNCİ TURPCAN\Desktop\Asp .Net Core Web Api\Application\bsStoreApp\WebApi\nLog.config
+2024-07-06 00:45:29.3635 Info Message Template Auto Format enabled
+2024-07-06 00:45:29.4913 Info Adding target FileTarget(Name=logfile)
+2024-07-06 00:45:29.5273 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\İNCİ TURPCAN\Desktop\Asp .Net Core Web Api\Application\bsStoreApp\WebApi\nLog.config
+2024-07-06 01:08:25.3074 Info Message Template Auto Format enabled
+2024-07-06 01:08:25.4078 Info Adding target FileTarget(Name=logfile)
+2024-07-06 01:08:25.4388 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\İNCİ TURPCAN\Desktop\Asp .Net Core Web Api\Application\bsStoreApp\WebApi\nLog.config
+2024-07-06 01:14:33.7400 Info Message Template Auto Format enabled
+2024-07-06 01:14:33.8015 Info Adding target FileTarget(Name=logfile)
+2024-07-06 01:14:33.8209 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\İNCİ TURPCAN\Desktop\Asp .Net Core Web Api\Application\bsStoreApp\WebApi\nLog.config
+2024-07-06 01:15:41.3030 Info Message Template Auto Format enabled
+2024-07-06 01:15:41.3658 Info Adding target FileTarget(Name=logfile)
+2024-07-06 01:15:41.3855 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\İNCİ TURPCAN\Desktop\Asp .Net Core Web Api\Application\bsStoreApp\WebApi\nLog.config
+2024-07-06 01:16:17.6263 Info Message Template Auto Format enabled
+2024-07-06 01:16:17.7283 Info Adding target FileTarget(Name=logfile)
+2024-07-06 01:16:17.7640 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\İNCİ TURPCAN\Desktop\Asp .Net Core Web Api\Application\bsStoreApp\WebApi\nLog.config
+2024-07-06 01:19:03.3195 Info Message Template Auto Format enabled
+2024-07-06 01:19:03.4088 Info Adding target FileTarget(Name=logfile)
+2024-07-06 01:19:03.4358 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\İNCİ TURPCAN\Desktop\Asp .Net Core Web Api\Application\bsStoreApp\WebApi\nLog.config
+2024-07-06 01:46:07.1705 Info Message Template Auto Format enabled
+2024-07-06 01:46:07.2583 Info Adding target FileTarget(Name=logfile)
+2024-07-06 01:46:07.2879 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\İNCİ TURPCAN\Desktop\Asp .Net Core Web Api\Application\bsStoreApp\WebApi\nLog.config
+2024-07-06 02:33:04.1284 Info Message Template Auto Format enabled
+2024-07-06 02:33:04.3939 Info Adding target FileTarget(Name=logfile)
+2024-07-06 02:33:04.4113 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\İNCİ TURPCAN\Desktop\Asp .Net Core Web Api\Application\bsStoreApp\WebApi\nLog.config
+2024-07-06 02:41:43.4776 Info Message Template Auto Format enabled
+2024-07-06 02:41:43.5730 Info Adding target FileTarget(Name=logfile)
+2024-07-06 02:41:43.6036 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\İNCİ TURPCAN\Desktop\Asp .Net Core Web Api\Application\bsStoreApp\WebApi\nLog.config
+2024-07-06 02:43:26.1157 Info Message Template Auto Format enabled
+2024-07-06 02:43:26.2110 Info Adding target FileTarget(Name=logfile)
+2024-07-06 02:43:26.2498 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\İNCİ TURPCAN\Desktop\Asp .Net Core Web Api\Application\bsStoreApp\WebApi\nLog.config
+2024-07-06 02:55:16.2502 Info Message Template Auto Format enabled
+2024-07-06 02:55:16.3355 Info Adding target FileTarget(Name=logfile)
+2024-07-06 02:55:16.3679 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\İNCİ TURPCAN\Desktop\Asp .Net Core Web Api\Application\bsStoreApp\WebApi\nLog.config
+2024-07-06 02:57:04.8618 Info Message Template Auto Format enabled
+2024-07-06 02:57:04.9604 Info Adding target FileTarget(Name=logfile)
+2024-07-06 02:57:04.9927 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\İNCİ TURPCAN\Desktop\Asp .Net Core Web Api\Application\bsStoreApp\WebApi\nLog.config
+2024-07-06 03:01:27.6707 Info Message Template Auto Format enabled
+2024-07-06 03:01:27.7605 Info Adding target FileTarget(Name=logfile)
+2024-07-06 03:01:27.7922 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\İNCİ TURPCAN\Desktop\Asp .Net Core Web Api\Application\bsStoreApp\WebApi\nLog.config
+2024-07-06 03:07:02.5294 Info Message Template Auto Format enabled
+2024-07-06 03:07:02.6398 Info Adding target FileTarget(Name=logfile)
+2024-07-06 03:07:02.6727 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\İNCİ TURPCAN\Desktop\Asp .Net Core Web Api\Application\bsStoreApp\WebApi\nLog.config
+2024-07-06 03:11:58.6742 Info Message Template Auto Format enabled
+2024-07-06 03:11:58.7606 Info Adding target FileTarget(Name=logfile)
+2024-07-06 03:11:58.7839 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\İNCİ TURPCAN\Desktop\Asp .Net Core Web Api\Application\bsStoreApp\WebApi\nLog.config
+2024-07-06 03:13:22.7283 Info Message Template Auto Format enabled
+2024-07-06 03:13:22.8254 Info Adding target FileTarget(Name=logfile)
+2024-07-06 03:13:22.8553 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\İNCİ TURPCAN\Desktop\Asp .Net Core Web Api\Application\bsStoreApp\WebApi\nLog.config
+2024-07-06 03:17:27.0799 Info Message Template Auto Format enabled
+2024-07-06 03:17:27.1854 Info Adding target FileTarget(Name=logfile)
+2024-07-06 03:17:27.2178 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\İNCİ TURPCAN\Desktop\Asp .Net Core Web Api\Application\bsStoreApp\WebApi\nLog.config
+2024-07-06 04:07:20.2189 Info Message Template Auto Format enabled
+2024-07-06 04:07:20.4778 Info Adding target FileTarget(Name=logfile)
+2024-07-06 04:07:20.5040 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\İNCİ TURPCAN\Desktop\Asp .Net Core Web Api\Application\bsStoreApp\WebApi\nLog.config
+2024-08-12 23:12:55.8936 Info Message Template Auto Format enabled
+2024-08-12 23:12:56.2070 Info Adding target FileTarget(Name=logfile)
+2024-08-12 23:12:56.2480 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\İNCİ TURPCAN\Desktop\Asp .Net Core Web Api\Application\bsStoreApp\WebApi\nLog.config
+2024-08-12 23:16:30.4270 Info Message Template Auto Format enabled
+2024-08-12 23:16:30.4848 Info Adding target FileTarget(Name=logfile)
+2024-08-12 23:16:30.5095 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\İNCİ TURPCAN\Desktop\Asp .Net Core Web Api\Application\bsStoreApp\WebApi\nLog.config
+2024-08-12 23:50:22.1938 Info Message Template Auto Format enabled
+2024-08-12 23:50:22.2589 Info Adding target FileTarget(Name=logfile)
+2024-08-12 23:50:22.2784 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\İNCİ TURPCAN\Desktop\Asp .Net Core Web Api\Application\bsStoreApp\WebApi\nLog.config
+2024-08-12 23:51:08.5192 Info AppDomain Shutting down. LogFactory closing...
+2024-08-12 23:51:08.5192 Info LogFactory has been closed.
+2024-08-12 23:51:11.6273 Info Message Template Auto Format enabled
+2024-08-12 23:51:11.7521 Info Adding target FileTarget(Name=logfile)
+2024-08-12 23:51:11.8015 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\İNCİ TURPCAN\Desktop\Asp .Net Core Web Api\Application\bsStoreApp\WebApi\nLog.config
+2024-08-12 23:54:34.9153 Info Message Template Auto Format enabled
+2024-08-12 23:54:34.9698 Info Adding target FileTarget(Name=logfile)
+2024-08-12 23:54:34.9891 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\İNCİ TURPCAN\Desktop\Asp .Net Core Web Api\Application\bsStoreApp\WebApi\nLog.config
+2024-08-13 01:15:39.2921 Info Message Template Auto Format enabled
+2024-08-13 01:15:39.3354 Info Adding target FileTarget(Name=logfile)
+2024-08-13 01:15:39.3519 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\İNCİ TURPCAN\Desktop\Asp .Net Core Web Api\Application\bsStoreApp\WebApi\nLog.config
+2024-08-13 01:46:11.8268 Info Message Template Auto Format enabled
+2024-08-13 01:46:12.0646 Info Adding target FileTarget(Name=logfile)
+2024-08-13 01:46:12.0864 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\İNCİ TURPCAN\Desktop\Asp .Net Core Web Api\Application\bsStoreApp\WebApi\nLog.config
+2024-08-13 02:12:37.2246 Info Message Template Auto Format enabled
+2024-08-13 02:12:37.3005 Info Adding target FileTarget(Name=logfile)
+2024-08-13 02:12:37.3247 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\İNCİ TURPCAN\Desktop\Asp .Net Core Web Api\Application\bsStoreApp\WebApi\nLog.config
